@@ -1,0 +1,16 @@
+{
+  "name": "kzilla-node",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "testnn.js",
+  "scripts": {
+    "test": "node testnn.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
